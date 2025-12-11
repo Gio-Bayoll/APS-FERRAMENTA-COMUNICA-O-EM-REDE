@@ -1,28 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gio_b\\Desktop\\APS-Chat\\ChatServidor\\",
+  "WorkspaceRootPath": "C:\\Users\\gio_b\\Desktop\\APS-FERRAMENTA-COMUNICA-O-EM-REDE\\ChatServidor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{70A5E7AF-1237-4CB7-8C80-F8240378EAAA}|..\\ChatCliente\\ChatCliente.csproj|c:\\users\\gio_b\\desktop\\aps-chat\\chatcliente\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70A5E7AF-1237-4CB7-8C80-F8240378EAAA}|..\\ChatCliente\\ChatCliente.csproj|c:\\users\\gio_b\\desktop\\aps-chat\\chatcliente\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DD0B379-9818-4FC7-A502-CE0A96CAA2F9}|ChatServidor.csproj|c:\\users\\gio_b\\desktop\\aps-chat\\chatservidor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4DD0B379-9818-4FC7-A502-CE0A96CAA2F9}|ChatServidor.csproj|c:\\users\\gio_b\\desktop\\aps-ferramenta-comunica-o-em-rede\\chatservidor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DD0B379-9818-4FC7-A502-CE0A96CAA2F9}|ChatServidor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70A5E7AF-1237-4CB7-8C80-F8240378EAAA}|..\\ChatCliente\\ChatCliente.csproj|c:\\users\\gio_b\\desktop\\aps-chat\\chatcliente\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gio_b\\Desktop\\APS-Chat\\ChatCliente\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70A5E7AF-1237-4CB7-8C80-F8240378EAAA}|..\\ChatCliente\\ChatCliente.csproj|c:\\users\\gio_b\\desktop\\aps-chat\\chatcliente\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gio_b\\Desktop\\APS-Chat\\ChatCliente\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70A5E7AF-1237-4CB7-8C80-F8240378EAAA}|..\\ChatCliente\\ChatCliente.csproj|c:\\users\\gio_b\\desktop\\aps-chat\\chatcliente\\tema\\temaescuro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gio_b\\Desktop\\APS-Chat\\ChatCliente\\App.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70A5E7AF-1237-4CB7-8C80-F8240378EAAA}|..\\ChatCliente\\ChatCliente.csproj|c:\\users\\gio_b\\desktop\\aps-chat\\chatcliente\\tema\\temaclaro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gio_b\\Desktop\\APS-Chat\\ChatCliente\\App.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,99 +26,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\gio_b\\Desktop\\APS-Chat\\ChatCliente\\App.xaml.cs",
-              "RelativeDocumentMoniker": "..\\ChatCliente\\App.xaml.cs",
+              "RelativeDocumentMoniker": "..\\..\\APS-Chat\\ChatCliente\\App.xaml.cs",
               "ToolTip": "C:\\Users\\gio_b\\Desktop\\APS-Chat\\ChatCliente\\App.xaml.cs",
-              "RelativeToolTip": "..\\ChatCliente\\App.xaml.cs",
+              "RelativeToolTip": "..\\..\\APS-Chat\\ChatCliente\\App.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T23:26:28.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-05T23:26:28.323Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\gio_b\\Desktop\\APS-Chat\\ChatCliente\\App.xaml",
-              "RelativeDocumentMoniker": "..\\ChatCliente\\App.xaml",
+              "RelativeDocumentMoniker": "..\\..\\APS-Chat\\ChatCliente\\App.xaml",
               "ToolTip": "C:\\Users\\gio_b\\Desktop\\APS-Chat\\ChatCliente\\App.xaml",
-              "RelativeToolTip": "..\\ChatCliente\\App.xaml",
+              "RelativeToolTip": "..\\..\\APS-Chat\\ChatCliente\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-05T23:18:27.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-05T23:18:27.154Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\gio_b\\Desktop\\APS-Chat\\ChatCliente\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "..\\ChatCliente\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\..\\APS-Chat\\ChatCliente\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\gio_b\\Desktop\\APS-Chat\\ChatCliente\\MainWindow.xaml.cs",
-              "RelativeToolTip": "..\\ChatCliente\\MainWindow.xaml.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAxwG8AAAAxAAAA",
+              "RelativeToolTip": "..\\..\\APS-Chat\\ChatCliente\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAHwAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-04T23:23:23.821Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\gio_b\\Desktop\\APS-Chat\\ChatCliente\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "..\\ChatCliente\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\..\\APS-Chat\\ChatCliente\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\gio_b\\Desktop\\APS-Chat\\ChatCliente\\MainWindow.xaml",
-              "RelativeToolTip": "..\\ChatCliente\\MainWindow.xaml",
+              "RelativeToolTip": "..\\..\\APS-Chat\\ChatCliente\\MainWindow.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-12-05T16:53:01.898Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gio_b\\Desktop\\APS-Chat\\ChatServidor\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\gio_b\\Desktop\\APS-FERRAMENTA-COMUNICA-O-EM-REDE\\ChatServidor\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\gio_b\\Desktop\\APS-Chat\\ChatServidor\\Program.cs",
+              "ToolTip": "C:\\Users\\gio_b\\Desktop\\APS-FERRAMENTA-COMUNICA-O-EM-REDE\\ChatServidor\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-04T17:30:14.934Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TemaEscuro.xaml",
-              "DocumentMoniker": "C:\\Users\\gio_b\\Desktop\\APS-Chat\\ChatCliente\\Tema\\TemaEscuro.xaml",
-              "RelativeDocumentMoniker": "..\\ChatCliente\\Tema\\TemaEscuro.xaml",
-              "ToolTip": "C:\\Users\\gio_b\\Desktop\\APS-Chat\\ChatCliente\\Tema\\TemaEscuro.xaml",
-              "RelativeToolTip": "..\\ChatCliente\\Tema\\TemaEscuro.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-05T16:38:36.448Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TemaClaro.xaml",
-              "DocumentMoniker": "C:\\Users\\gio_b\\Desktop\\APS-Chat\\ChatCliente\\Tema\\TemaClaro.xaml",
-              "RelativeDocumentMoniker": "..\\ChatCliente\\Tema\\TemaClaro.xaml",
-              "ToolTip": "C:\\Users\\gio_b\\Desktop\\APS-Chat\\ChatCliente\\Tema\\TemaClaro.xaml",
-              "RelativeToolTip": "..\\ChatCliente\\Tema\\TemaClaro.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-05T16:39:46.636Z",
               "EditorCaption": ""
             }
           ]

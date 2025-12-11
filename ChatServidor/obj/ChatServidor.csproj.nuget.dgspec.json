@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gio_b\\Desktop\\APS-Chat\\ChatServidor\\ChatServidor.csproj": {}
+    "C:\\Users\\gio_b\\Desktop\\APS-FERRAMENTA-COMUNICA-O-EM-REDE\\ChatServidor\\ChatServidor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gio_b\\Desktop\\APS-Chat\\ChatServidor\\ChatServidor.csproj": {
+    "C:\\Users\\gio_b\\Desktop\\APS-FERRAMENTA-COMUNICA-O-EM-REDE\\ChatServidor\\ChatServidor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gio_b\\Desktop\\APS-Chat\\ChatServidor\\ChatServidor.csproj",
+        "projectUniqueName": "C:\\Users\\gio_b\\Desktop\\APS-FERRAMENTA-COMUNICA-O-EM-REDE\\ChatServidor\\ChatServidor.csproj",
         "projectName": "ChatServidor",
-        "projectPath": "C:\\Users\\gio_b\\Desktop\\APS-Chat\\ChatServidor\\ChatServidor.csproj",
+        "projectPath": "C:\\Users\\gio_b\\Desktop\\APS-FERRAMENTA-COMUNICA-O-EM-REDE\\ChatServidor\\ChatServidor.csproj",
         "packagesPath": "C:\\Users\\gio_b\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gio_b\\Desktop\\APS-Chat\\ChatServidor\\obj\\",
+        "outputPath": "C:\\Users\\gio_b\\Desktop\\APS-FERRAMENTA-COMUNICA-O-EM-REDE\\ChatServidor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
