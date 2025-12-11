@@ -1,0 +1,49 @@
+﻿<Window x:Class="ChatCliente.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ChatCliente"
+        mc:Ignorable="d"
+        Background="{DynamicResource BgColor}"
+        Title="MainWindow" Height="450" Width="800">
+    
+
+    <Grid Margin="10">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Linha 1: Conexão + Tema -->
+        <StackPanel Orientation="Horizontal" Grid.Row="0" Margin="0 0 0 10">
+            <TextBlock Text="IP:" VerticalAlignment="Center"/>
+            <TextBox x:Name="txtIP" Width="150" Margin="5 0" Text="127.0.0.1"/>
+
+            <TextBlock Text="Nome:" VerticalAlignment="Center" Margin="10 0 0 0"/>
+            <TextBox x:Name="txtNome" Width="120" Margin="5 0" />
+
+            <Button x:Name="btnConectar" Content="Conectar" Width="100" Margin="10 0" Click="btnConectar_Click"/>
+
+            <!-- Botão de Tema -->
+            <Button x:Name="btnTema" Content="Dark Mode" Width="110" Margin="10 0" Click="btnTema_Click"/>
+        </StackPanel>
+
+        <!-- Linha 2: Área de mensagens -->
+        <TextBox x:Name="txtChat"
+             Grid.Row="1"
+             IsReadOnly="True"
+             VerticalScrollBarVisibility="Auto"
+             TextWrapping="Wrap"
+             />
+
+        <!-- Linha 3: Digitação -->
+        <StackPanel Orientation="Horizontal" Grid.Row="2" Margin="0 10 0 0">
+            <TextBox x:Name="txtMensagem" Width="400" Margin="0 0 10 0" />
+            <Button x:Name="btnEnviar" Content="Enviar" Width="80" Click="btnEnviar_Click"/>
+        </StackPanel>
+
+    </Grid>
+</Window>

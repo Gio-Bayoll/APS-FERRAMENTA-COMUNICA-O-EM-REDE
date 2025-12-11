@@ -1,0 +1,33 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <!-- CORES DO MODO CLARO -->
+    <SolidColorBrush x:Key="BgColor" Color="White"/>
+    <SolidColorBrush x:Key="TextColor" Color="Black"/>
+    <SolidColorBrush x:Key="BoxBgColor" Color="White"/>
+    <SolidColorBrush x:Key="BorderColor" Color="#FFAAAAAA"/>
+    <SolidColorBrush x:Key="ButtonBg" Color="#FFE5E5E5"/>
+
+
+    <!-- ESTILOS -->
+    <Style TargetType="Window">
+        <Setter Property="Background" Value="{StaticResource BgColor}"/>
+    </Style>
+
+    <Style TargetType="TextBlock">
+        <Setter Property="Foreground" Value="{StaticResource TextColor}"/>
+    </Style>
+
+    <Style TargetType="TextBox">
+        <Setter Property="Foreground" Value="{StaticResource TextColor}"/>
+        <Setter Property="Background" Value="{StaticResource BoxBgColor}"/>
+        <Setter Property="BorderBrush" Value="{StaticResource BorderColor}"/>
+    </Style>
+
+    <Style TargetType="Button">
+        <Setter Property="Foreground" Value="{StaticResource TextColor}"/>
+        <Setter Property="Background" Value="{StaticResource ButtonBg}"/>
+        <Setter Property="BorderBrush" Value="{StaticResource BorderColor}"/>
+    </Style>
+
+</ResourceDictionary>

@@ -1,0 +1,14 @@
+C:\Users\gio_b\Desktop\APS-Chat\ChatServidor\bin\Debug\net8.0\ChatServidor.exe
+C:\Users\gio_b\Desktop\APS-Chat\ChatServidor\bin\Debug\net8.0\ChatServidor.deps.json
+C:\Users\gio_b\Desktop\APS-Chat\ChatServidor\bin\Debug\net8.0\ChatServidor.runtimeconfig.json
+C:\Users\gio_b\Desktop\APS-Chat\ChatServidor\bin\Debug\net8.0\ChatServidor.dll
+C:\Users\gio_b\Desktop\APS-Chat\ChatServidor\bin\Debug\net8.0\ChatServidor.pdb
+C:\Users\gio_b\Desktop\APS-Chat\ChatServidor\obj\Debug\net8.0\ChatServidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gio_b\Desktop\APS-Chat\ChatServidor\obj\Debug\net8.0\ChatServidor.AssemblyInfoInputs.cache
+C:\Users\gio_b\Desktop\APS-Chat\ChatServidor\obj\Debug\net8.0\ChatServidor.AssemblyInfo.cs
+C:\Users\gio_b\Desktop\APS-Chat\ChatServidor\obj\Debug\net8.0\ChatServidor.csproj.CoreCompileInputs.cache
+C:\Users\gio_b\Desktop\APS-Chat\ChatServidor\obj\Debug\net8.0\ChatServidor.dll
+C:\Users\gio_b\Desktop\APS-Chat\ChatServidor\obj\Debug\net8.0\refint\ChatServidor.dll
+C:\Users\gio_b\Desktop\APS-Chat\ChatServidor\obj\Debug\net8.0\ChatServidor.pdb
+C:\Users\gio_b\Desktop\APS-Chat\ChatServidor\obj\Debug\net8.0\ChatServidor.genruntimeconfig.cache
+C:\Users\gio_b\Desktop\APS-Chat\ChatServidor\obj\Debug\net8.0\ref\ChatServidor.dll
